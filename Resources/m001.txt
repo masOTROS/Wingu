@@ -1,0 +1,14 @@
+NAME:
+Superman
+CATEGORY:
+Drama
+Accion
+Aventura
+YEAR:
+1925
+DESCRIPTION:
+Es una pelicula medio chota de un super heroe que vuela y tiene capa roja.
+MOVIE:
+http://------
+POSTER:
+//-----
