@@ -1,3 +1,4 @@
+LAST UPDATE:
 19/04/2017
--
-http://....//m001.txt
+MOVIES:
+https://raw.githubusercontent.com/masOTROS/Wingu/master/Resources/m001.txt

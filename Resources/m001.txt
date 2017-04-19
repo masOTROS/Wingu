@@ -1,5 +1,5 @@
 NAME:
-Superman
+Superman returns
 CATEGORY:
 Drama
 Accion
@@ -9,6 +9,6 @@ YEAR:
 DESCRIPTION:
 Es una pelicula medio chota de un super heroe que vuela y tiene capa roja.
 MOVIE:
-http://------
+https://raw.githubusercontent.com/masOTROS/Wingu/master/Resources/m001v.mp4
 POSTER:
-//-----
+https://raw.githubusercontent.com/masOTROS/Wingu/master/Resources/m001p.jpg
